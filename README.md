@@ -1,2 +1,3 @@
 # flashlight-detection
-detect flah light with opencv 
+detect flash light with opencv 
+just run python file the camera will open turn on your mobile flash
